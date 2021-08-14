@@ -2,6 +2,7 @@
 
  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=REACT&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Node-3C873A?style=flat-square&logo=NODE.JS&logoColor=white"/>
  <br/>
  <br/>
 
