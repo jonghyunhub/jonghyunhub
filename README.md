@@ -1,4 +1,4 @@
-### Hi there 👋
+### 기술 스택👋
 
  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 
