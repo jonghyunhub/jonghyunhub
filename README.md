@@ -1,4 +1,4 @@
-### 기술 스택👋
+<h3 align="center">🛠 기술 스택 🛠</h3>
 
  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 
