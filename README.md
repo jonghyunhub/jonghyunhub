@@ -1,14 +1,3 @@
-<h3 align="center">🛠 기술 스택 🛠</h3>
-
-<h4 align="center">
- <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Node-3C873A?style=flat-square&logo=NODE.JS&logoColor=white"/>
- <img src="https://img.shields.io/badge/express-4B89DC?style=flat-square&logo=Express&logoColor=white"/>
- <img src="https://img.shields.io/badge/mongoDB-06A66C?style=flat-square&logo=MongoDb&logoColor=white"/>
-</h4>
- <br/>
- <br/>
-
 
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-47207%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
