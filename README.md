@@ -1,9 +1,7 @@
 <h3 align="center">🛠 기술 스택 🛠</h3>
 
 <h4 align="center">
- <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
- <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=REACT&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Node-3C873A?style=flat-square&logo=NODE.JS&logoColor=white"/>
  <img src="https://img.shields.io/badge/express-4B89DC?style=flat-square&logo=Express&logoColor=white"/>
  <img src="https://img.shields.io/badge/mongoDB-06A66C?style=flat-square&logo=MongoDb&logoColor=white"/>
