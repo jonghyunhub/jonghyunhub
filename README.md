@@ -16,5 +16,5 @@
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f4e9.svg" width="16" /> <b>email</b> | code201220@gmail.com
 <br />
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4d2.svg" width="16" /> <b>tech-blog</b> | <a href="https://velog.io/@jonghyun3668/posts"  target="_blank" >https://velog.io/@jonghyun3668/posts</a>
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f4d2.svg" width="16" /> <b>blog</b> | <a href="https://velog.io/@jonghyun3668/posts"  target="_blank" >https://velog.io/@jonghyun3668/posts</a>
 <br />
