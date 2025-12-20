@@ -5,7 +5,7 @@
 
 #### Career
 
-* [AB180](https://www.ab180.co/) Backend Engineer Intern (2025.09.01 ~ Now)<br />
+* [AB180](https://www.ab180.co/) Backend Engineer Intern (2025.09.01 ~ 2025.12.31)<br />
 
 
 #### Experience
