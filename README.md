@@ -5,7 +5,8 @@
 
 #### Career
 
-* [AB180](https://www.ab180.co/) Backend Engineer Intern (2025.09.01 ~ )<br />
+* [AB180](https://www.ab180.co/) Backend Engineer Intern (2025.09 ~ 2025.12)<br />
+* [Gmarket](https://www.gmarket.co.kr/) Backend Engineer (2026.03 ~ Now)<br />
 
 
 #### Experience
