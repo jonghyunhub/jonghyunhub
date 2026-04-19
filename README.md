@@ -1,8 +1,5 @@
 ### JongHyun Choo
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jonghyun97)](https://solved.ac/jonghyun97)
-
 #### Career
 
 * [AB180](https://www.ab180.co/) Backend Engineer Intern (2025.09 ~ 2025.12)<br />
