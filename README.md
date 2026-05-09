@@ -8,7 +8,7 @@
 
 #### Experience
 * Soongsil University Computer Science (2019. 03 ~ Now)
-* [AWS Cloud Club Soongsil](https://www.youtube.com/@awscloudclubkorea) 2nd, 3rd Member (2024. 09 ~ Now)
+* [AWS Cloud Club Soongsil](https://www.youtube.com/@awscloudclubkorea) 2nd, 3rd Member (2024. 09 ~ 2025.12)
 
 #### Contacts
 
